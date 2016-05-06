@@ -1,0 +1,28 @@
+{
+  "PermissionsControllerRole": "Nadeko",
+  "Verbose": true,
+  "Id": 164112073087778816,
+  "Permissions": {
+    "Name": "Idiots playing League and stuff",
+    "Modules": {
+      "NSFW": false
+    },
+    "Commands": {},
+    "FilterInvites": false,
+    "FilterWords": false
+  },
+  "Words": [],
+  "UserPermissions": {
+    "164165754202095616": {
+      "Name": "Floda2",
+      "Modules": {
+        "NSFW": false
+      },
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    }
+  },
+  "ChannelPermissions": {},
+  "RolePermissions": {}
+}

@@ -1,0 +1,18 @@
+{
+  "PermissionsControllerRole": "Nadeko",
+  "Verbose": true,
+  "Id": 164086884094574592,
+  "Permissions": {
+    "Name": "Furries anonymous",
+    "Modules": {
+      "NSFW": true
+    },
+    "Commands": {},
+    "FilterInvites": false,
+    "FilterWords": false
+  },
+  "Words": [],
+  "UserPermissions": {},
+  "ChannelPermissions": {},
+  "RolePermissions": {}
+}

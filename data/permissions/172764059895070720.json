@@ -1,0 +1,18 @@
+{
+  "PermissionsControllerRole": "Nadeko",
+  "Verbose": true,
+  "Id": 172764059895070720,
+  "Permissions": {
+    "Name": "FUck",
+    "Modules": {
+      "NSFW": true
+    },
+    "Commands": {},
+    "FilterInvites": false,
+    "FilterWords": false
+  },
+  "Words": [],
+  "UserPermissions": {},
+  "ChannelPermissions": {},
+  "RolePermissions": {}
+}
